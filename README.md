@@ -26,7 +26,7 @@ including history, art, medicine, engineering, science, agriculture, economics, 
 examination etc.At present,a great deal of chinese colleges and universities have already established the campus service of Chinese 
 university MOOC, and students can take the courses on the platform, and the credits will be recognized by the school.
 
-2.2 market positioning
+2.2 Market positioning
 
 2.2.1 Slogan
 
@@ -34,7 +34,7 @@ It allows every user with a desire to improve to learn and be certified in cours
 public with welfare and universal high quality higher education learning resources, which brings the excellent courses of famous 
 Chinese universities to the network and breaks the wall of the university.
 
-2.2.2 main business
+2.2.2 Main business
 
 Including three aspects of business:(1)Based on a large number of high-quality university courses, mining potential users, guiding more 
 users to complete learning on the platform.(2)Provide enterprise-class services for the school cloud.(3)Grasp the current learning 
@@ -46,10 +46,19 @@ examination training
 
 2.3.1 User distribution
 
+The gender distribution is more balanced, in which the number of female users is slightly higher than that of male users, but it is not obvious.Age distribution,26 to 35-year-old users are the main users of the platform, accounting for 40% of the total number of users. Most of the users in this age group are young professionals, which shows that this educational model is very popular among young professionals.In addition, 19 to 25-year-old users account for more than 20%, most of them are college students. It can be seen that the post-90s are still the main active users. 36-45 years old users also have some, other age groups of users are very small.
+
+2.3.2 Characteristics of the platform
+
+(1)The interactivity of the platform (2)Richness of resources (3)Controllability of process
+
+2.3.3 Learning theory
+
+MOOC is based on connectionism learning theory, through socialized online interaction to learn knowledge.
 
 3.Key elements Analysis
 
-3.1 the environment(Where to learn)
+3.1 The environment(Where to learn)
 
 This MOOC platform is a completely open and free learning space, learners are completely responsible for themselves, from the beginning 
 of course selection to finish the course learning, the whole process is controlled by learners. Which puts forward higher requirements 
