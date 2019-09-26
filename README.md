@@ -49,7 +49,11 @@ The learning on the platform is completely open and autonomous, the learning res
 
 3.6 Interact object(From who to learn)
 
+We acquire knowledge mainly by watching the teacher's instrucstional videos. The instrucstional mode is very similar to the traditional education,  the difference is that the classroom instruction is moved on the screens. We need to complete the homework assigned by the teacher, the system will automatically corrects and remind you what knowledge you have not mastered.participate in the study section of the problem discussion and communication, can help learners develop critical thinking, build a knowledge map to internalize knowledge. In short, we can learn knowledge from teachers, systems and partners by interaction.
+
 4.Analysis and improvement
+
+To a large extent, the teaching mode of MOOC is still a replica of traditional lectures(jiao jianli,2013).It is still an undoubted fact that the high elimination rate of MOOC curriculum and the low social recognition of teaching quality(yang yonglin,2013).Some studies have shown that the withdrawal rate of learners in MOOC is high, generally between 85 to 95 percent(hao dan,2013).Many learners may be motivated to join the course for a while, it may also be to deal with knowledge anxiety, or it may be purely for learning knowledge or any other reasons. For professionals who have worked, the learning rate of the course may be low which due to work problems,time conflicts and other reasons, the platform needs to coordinate these problems.
 
 5.conclusion 
 
