@@ -39,9 +39,11 @@ In the process of watching instructional videos, when we learn to the important 
 into it. Only after we have finished these exercises can we continue to watch, which is helpful to examine the previous learned content 
 for us,at the same time strengthen the memory and application of the learned content in time. After each class learners can communicate 
 with others in time and share views, this process can help enhance everyone's understanding, so the Effect of learning also will be 
-better.For me, the overall learning effect is pretty good, course learning is not only a whole management process of our own, but also we can with more people to exchange learning,  get a lot.
+better.For me, the overall learning effect is pretty good, course learning is not only a whole management process of our own, but also we can with more people to exchange learning, get a lot.
 
 3.4 Interaction(How to learn,The manner,The media)
+
+The learning on the platform is completely open and autonomous, the learning resources include mainly the teacher's teaching videos. In the process of watching the videos, we also need to do some exercises, after learning a lesson, there are also some corresponding after-class exercises, after we finish them,the system will automatically correct and timely feedback, so that we can correct the mistakes in time, which all belongs to human-computer interaction. In learning, we can share views in the discussion and communication section to put forward confusion, learners will build a virtual learning community, teachers usually will also participate in these communication, which belongs to interpersonal interaction. They are all carried on through the network.
 
 3.5 Experience(The process,Feelings)
 
