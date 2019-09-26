@@ -28,6 +28,24 @@ university MOOC, and students can take the courses on the platform, and the cred
 
 2.2 market positioning
 
+2.2.1 Slogan
+
+It allows every user with a desire to improve to learn and be certified in courses at well-known universities in China. It provides 
+public with welfare and universal high quality higher education learning resources, which brings the excellent courses of famous 
+Chinese universities to the network and breaks the wall of the university.
+
+2.2.2 main business
+
+Including three aspects of business:(1)Based on a large number of high-quality university courses, mining potential users, guiding more 
+users to complete learning on the platform.(2)Provide enterprise-class services for the school cloud.(3)Grasp the current learning 
+requirements and hot spots of college students, build the postgraduate entrance examination training column, rely on the existing 
+platform of college students users, carry on the dissemination, provide the postgraduate entrance for the college students.
+examination training
+
+2.3 Platform analysis
+
+2.3.1 User distribution
+
 
 3.Key elements Analysis
 
