@@ -30,7 +30,8 @@ China.Bloom(1913-1999) divided educational goals into three categories: cognitiv
 three abilities by learning the courses on the platform and completing the learning goals.Firstly,learners watch a kind of course 
 instrutional videos and complete relevant exercises dependently,they can learn about knowledge.Secondly,Learners can also enhance their 
 knowledge by participating in the communication and discussion with others, at the same time, they can learn information skills and 
-cultivate a good learning attitude.FInally,one to be able to complete a course of learning until the final certification is also a test of individual learning attitude.
+cultivate a good learning attitude.FInally,one to be able to complete a course of learning until the final certification is also a test 
+of individual learning attitude.
 
 
 3.3 Behavior(Effect of learning)
@@ -39,27 +40,45 @@ In the process of watching instructional videos, when we learn to the important 
 into it. Only after we have finished these exercises can we continue to watch, which is helpful to examine the previous learned content 
 for us,at the same time strengthen the memory and application of the learned content in time. After each class learners can communicate 
 with others in time and share views, this process can help enhance everyone's understanding, so the Effect of learning also will be 
-better.For me, the overall learning effect is pretty good, course learning is not only a whole management process of our own, but also we can with more people to exchange learning, get a lot.
+better.For me, the overall learning effect is pretty good, course learning is not only a whole management process of our own, but also 
+we can with more people to exchange learning, get a lot.
 
 3.4 Interaction(How to learn,The manner,The media)
 
-The learning on the platform is completely open and autonomous, the learning resources include mainly the teacher's teaching videos. In the process of watching the videos, we also need to do some exercises, after learning a lesson, there are also some corresponding after-class exercises, after we finish them,the system will automatically correct and timely feedback, so that we can correct the mistakes in time, which all belongs to human-computer interaction. In learning, we can share views in the discussion and communication section to put forward confusion, learners will build a virtual learning community, teachers usually will also participate in these communication, which belongs to interpersonal interaction. They are all carried on through the network.
+The learning on the platform is completely open and autonomous, the learning resources include mainly the teacher's teaching videos. In 
+the process of watching the videos, we also need to do some exercises, after learning a lesson, there are also some corresponding after-
+class exercises, after we finish them,the system will automatically correct and timely feedback, so that we can correct the mistakes in 
+time, which all belongs to human-computer interaction. In learning, we can share views in the discussion and communication section to 
+put forward confusion, learners will build a virtual learning community, teachers usually will also participate in these communication, 
+which belongs to interpersonal interaction. They are all carried on through the network.
 
 3.5 Experience(The process,Feelings)
 
+The learning process completely depends on the learners' own learning initiative. After joining a certain course, the course will be 
+updated every week just like in school. The learners need to watch videos and complete themselves' homework in time. There will be a 
+deadline for the homework. After completion of course learning, there will be a corresponding examination, and the course certification 
+will be obtained after your comprehensive achievement have passed. The whole learning process is basically carried out in accordance 
+with university education standards, of course, because this is an open and free learning platform, there is no strict time limit, you 
+can choose the any time to watch videos and do exercises before the deadline.
+
 3.6 Interact object(From who to learn)
 
-We acquire knowledge mainly by watching the teacher's instrucstional videos. The instrucstional mode is very similar to the traditional education,  the difference is that the classroom instruction is moved on the screens. We need to complete the homework assigned by the teacher, the system will automatically corrects and remind you what knowledge you have not mastered.participate in the study section of the problem discussion and communication, can help learners develop critical thinking, build a knowledge map to internalize knowledge. In short, we can learn knowledge from teachers, systems and partners by interaction.
+We acquire knowledge mainly by watching the teacher's instrucstional videos. The instrucstional mode is very similar to the traditional 
+education,  the difference is that the classroom instruction is moved on the screens. We need to complete the homework assigned by the 
+teacher, the system will automatically corrects and remind you what knowledge you have not mastered.participate in the study section of 
+the problem discussion and communication, can help learners develop critical thinking, build a knowledge map to internalize knowledge. 
+In short, we can learn knowledge from teachers, systems and partners by interaction.
 
 4.Analysis and improvement
 
-To a large extent, the teaching mode of MOOC is still a replica of traditional lectures(jiao jianli,2013).It is still an undoubted fact that the high elimination rate of MOOC curriculum and the low social recognition of teaching quality(yang yonglin,2013).Some studies have shown that the withdrawal rate of learners in MOOC is high, generally between 85 to 95 percent(hao dan,2013).Many learners may be motivated to join the course for a while, it may also be to deal with knowledge anxiety, or it may be purely for learning knowledge or any other reasons. For professionals who have worked, the learning rate of the course may be low which due to work problems,time conflicts and other reasons, the platform needs to coordinate these problems.
+To a large extent, the teaching mode of MOOC is still a replica of traditional lectures(jiao jianli,2013).It is still an undoubted fact 
+that the high elimination rate of MOOC curriculum and the low social recognition of teaching quality(yang yonglin,2013).Some studies 
+have shown that the withdrawal rate of learners in MOOC is high, generally between 85 to 95 percent(hao dan,2013).Many learners may be 
+motivated to join the course for a while, it may also be to deal with knowledge anxiety, or it may be purely for learning knowledge or 
+any other reasons. For professionals who have worked, the learning rate of the course may be low which due to work problems,time 
+conflicts and other reasons, the platform needs to coordinate these problems.
 
 5.conclusion 
 
-For MOOC, the low completion rate of MOOC learning, the lack of learning sustainability, the lack of participation of MOOC learners and the lack of learning investment are the problems what should be solved in the future.
-
-
-
-
-
+For MOOC, the low completion rate of MOOC learning, the lack of learning sustainability, the lack of participation of MOOC learners and 
+the lack of learning investment are the problems what should be solved in the future.
