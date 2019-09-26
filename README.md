@@ -4,9 +4,30 @@ Chinese University MOOC platform
 1.Background
 
 With the development of Open Educational Resources，Massive Open Online Courses have attracted more attention。 MOOC is a free and open 
-online course for the public , chinese name is “MU CLASS”。2012 is called as the year of MOOC.
+online course for the public , chinese name is “MU CLASS”。2012 is called as the year of MOOC.Coursera、edX and Udacity had been 
+established in this year,they laid the foundation stone of MOOC development. Then the platform of England Futurelearn,German iversity 
+and other MOOCs also developed and grew,what Led the global MOOC curriculums construction boom.The construction of MOOC platform in 
+China began in 2013. The establishment of Chinese classes platform such as online schools and  Chinese university MOOC platform has 
+announced the arrival of the era of Chinese classes (Zhang Min, Yin Shuai Jun, 2016).The number of online education users in China is 
+expected to reach 296 million by 2020, while the online education market is at a stage 
+of rapid growth, according to a iiMedia Research study.
 
 2.Overview of the platform
+
+2.1 Summary of the platform
+
+Chinese university MOOC learning platform is a product of the Internet plus the education, which is jointly launched by higher Education 
+Press and NetEase, and undertakes the task of national excellent open courses of the Ministry of Education.It was released at May 2014 
+firstly.The android version was released at April 2015.The IOS version was released at May 2015.Learners should first register on the 
+platform, and then the system will allow you to choose the subjects you are interested in, and then enter the system and begin to choose 
+courses. With a complete teaching process, and provide electronic or paper certificates if they meet the curriculum performance 
+standards (Wang Qiong, 2013).Because the high quality courses offered by the platform what basically cover all kinds of subjects, 
+including history, art, medicine, engineering, science, agriculture, economics, literature, foreign language and postgraduate entrance 
+examination etc.At present,a great deal of chinese colleges and universities have already established the campus service of Chinese 
+university MOOC, and students can take the courses on the platform, and the credits will be recognized by the school.
+
+2.2 market positioning
+
 
 3.Key elements Analysis
 
