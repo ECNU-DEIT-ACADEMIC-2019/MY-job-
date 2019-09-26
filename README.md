@@ -46,7 +46,11 @@ examination training
 
 2.3.1 User distribution
 
-The gender distribution is more balanced, in which the number of female users is slightly higher than that of male users, but it is not obvious.Age distribution,26 to 35-year-old users are the main users of the platform, accounting for 40% of the total number of users. Most of the users in this age group are young professionals, which shows that this educational model is very popular among young professionals.In addition, 19 to 25-year-old users account for more than 20%, most of them are college students. It can be seen that the post-90s are still the main active users. 36-45 years old users also have some, other age groups of users are very small.
+The gender distribution is more balanced, in which the number of female users is slightly higher than that of male users, but it is not 
+obvious.Age distribution,26 to 35-year-old users are the main users of the platform, accounting for 40% of the total number of users. 
+Most of the users in this age group are young professionals, which shows that this educational model is very popular among young 
+professionals.In addition, 19 to 25-year-old users account for more than 20%, most of them are college students. It can be seen that the 
+post-90s are still the main active users. 36-45 years old users also have some, other age groups of users are very small.
 
 2.3.2 Characteristics of the platform
 
@@ -54,7 +58,7 @@ The gender distribution is more balanced, in which the number of female users is
 
 2.3.3 Learning theory
 
-MOOC is based on connectionism learning theory, through socialized online interaction to learn knowledge.
+MOOC is based on connectionism learning theory which through socialized online interaction to learn knowledge.
 
 3.Key elements Analysis
 
@@ -128,5 +132,8 @@ conflicts and other reasons, the platform needs to coordinate these problems.
 
 5.conclusion 
 
-For MOOC, the low completion rate of MOOC learning, the lack of learning sustainability, the lack of participation of MOOC learners and 
-the lack of learning investment are the problems what should be solved in the future.
+For chinese university MOOC, the low completion rate of MOOC learning, the lack of learning sustainability, the lack of participation of 
+MOOC learners and the lack of learning investment are current problems what should be solved in the future.With more and more people 
+register at this platform, more individualized and abundant courses should be developed for all kinds of learners.All in all,I am 
+strongly optimistic about the development of the MOOC platform.Especially as technology increasingly progress,our social productive 
+forces will be improved highly,so we will have much more personal time to study.
