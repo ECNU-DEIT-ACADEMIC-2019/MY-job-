@@ -39,8 +39,7 @@ Chinese universities to the network and breaks the wall of the university.
 Including three aspects of business:(1)Based on a large number of high-quality university courses, mining potential users, guiding more 
 users to complete learning on the platform.(2)Provide enterprise-class services for the school cloud.(3)Grasp the current learning 
 requirements and hot spots of college students, build the postgraduate entrance examination training column, rely on the existing 
-platform of college students users, carry on the dissemination, provide the postgraduate entrance for the college students.
-examination training
+platform of college students users, carry on the dissemination, provide the postgraduate entrance for the college students examination training
 
 2.3 Platform analysis
 
@@ -58,7 +57,8 @@ post-90s are still the main active users. 36-45 years old users also have some, 
 
 2.3.3 Learning theory
 
-MOOC is based on connectionism learning theory which through socialized online interaction to learn knowledge.
+MOOC is based on connectionism learning theory which through socialized online interaction to learn knowledge.This theory was put 
+forward systematically by Simmons the idea of connectionism in his Connectivism: A Learning Theory for the Digital Age.
 
 3.Key elements Analysis
 
