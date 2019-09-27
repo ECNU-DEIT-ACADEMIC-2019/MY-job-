@@ -117,7 +117,7 @@ can choose the any time to watch videos and do exercises before the deadline.
 
 We acquire knowledge mainly by watching the teacher's instrucstional videos. The instrucstional mode is very similar to the traditional 
 education,  the difference is that the classroom instruction is moved on the screens. We need to complete the homework assigned by the 
-teacher, the system will automatically corrects and remind you what knowledge you have not mastered.participate in the study section of 
+teacher, the system will automatically corrects and remind you what knowledge you have not mastered.Participating in the section of 
 the problem discussion and communication, can help learners develop critical thinking, build a knowledge map to internalize knowledge. 
 In short, we can learn knowledge from teachers, systems and partners by interaction.
 
