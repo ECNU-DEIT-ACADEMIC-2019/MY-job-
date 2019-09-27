@@ -99,10 +99,10 @@ we can with more people to exchange learning, get a lot.
 
 The learning on the platform is completely open and autonomous, the learning resources include mainly the teacher's teaching videos. In 
 the process of watching the videos, we also need to do some exercises, after learning a lesson, there are also some corresponding after-
-class exercises, after we finish them,the system will automatically correct and timely feedback, so that we can correct the mistakes in 
-time, which all belongs to human-computer interaction. In learning, we can share views in the discussion and communication section to 
-put forward confusion, learners will build a virtual learning community, teachers usually will also participate in these communication, 
-which belongs to interpersonal interaction. They are all carried on through the network.
+class exercises.When we finish them,the system will automatically correct and timely feedback, so that we can correct the mistakes in 
+time, which all belongs to human-computer interaction. In addition, we can also share views in the discussion and communication section 
+to put forward our confusions, learners will build a virtual learning community between each other, teachers usually will also 
+participate in these communication, which belongs to interpersonal interaction. They are all carried on through the network.
 
 3.5 Experience(The process,Feelings)
 
