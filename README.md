@@ -128,7 +128,21 @@ that the high elimination rate of MOOC curriculum and the low social recognition
 have shown that the withdrawal rate of learners in MOOC is high, generally between 85 to 95 percent(hao dan,2013).Many learners may be 
 motivated to join the course for a while, it may also be to deal with knowledge anxiety, or it may be purely for learning knowledge or 
 any other reasons. For professionals who have worked, the learning rate of the course may be low which due to work problems,time 
-conflicts and other reasons, the platform needs to coordinate these problems.
+conflicts and other reasons, the platform needs to coordinate these problems.The platform can start with the improvement of interactive 
+experience, resource experience, controllable experience and identity to continue to use.At present, the platform is mainly based on 
+Chinese teaching.  The learning platform should provide more learning material mediums such as text form, picture form and animation 
+form on the basis of video teaching, so as to effectively enhance learners' understanding and try to expand the course
+content.Theplatform teaching team should pay more attention to the guidance and management of the discussion area, give timely feedback 
+to the learners' problems, improve the enthusiasm of learners' interaction, pay attention to the learning problems and learning 
+discussions put forward by the discussion area, ensure the quality of interaction, and can also use the mainstream social software such 
+as QQ, WeChat to build learning groups, so as to provide learners with as many channels of participation as possible.In the aspect of 
+learner controllability experience, the ease of use and availability of Chinese MOOC learning platform can be further optimized to 
+facilitate learners' use.In the aspect of teaching content process arrangement, learners should be reminded to update the learning 
+content in time, and the content should be briefly and fully described to attract learners' interest; in the aspect of after-class 
+practice, learners should be informed of the beginning and deadline of practice, homework, examination, etc., so that learners can make 
+adequate preparations.Finally, according to the relationship between learners' demographic variables and the preference of the platform, 
+the Chinese MOOC team should make clear service objects and figure out its own advantages and disadvantages, and match them 
+appropriately in order to attract the most suitable learners and enhance the learners' willingness to continue to use.
 
 5.conclusion 
 
